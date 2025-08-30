@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Masoumeh Dorsangi 👋
 
-<!--
-**dorrinweb/Dorrinweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Backend Developer & Technical Leader
 
-Here are some ideas to get you started:
+I am an innovative CTO and Senior Web Developer with over 10 years of experience, specializing in building scalable and high-performance backend systems. My expertise lies in Node.js, PHP, and architecting microservices. I am passionate about solving complex problems and leading technical teams to success.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools
+
+*   **Backend:** Node.js, Express.js, PHP (Laravel)
+*   **Frontend:** Vue.js, JavaScript, HTML5, CSS3
+*   **Databases:** MongoDB, MySQL, Redis
+*   **DevOps & Architecture:** Docker, Microservices, RESTful APIs
+*   **Real-time:** Socket.io
+
+---
+
+### 📫 How to reach me:
+
+*   **LinkedIn:** [linkedin.com/in/masoumeh-dorsangi](https://linkedin.com/in/masoumeh-dorsangi)
+*   **Email:** Dorsangi@gmail.com
